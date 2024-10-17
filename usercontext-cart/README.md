@@ -28,10 +28,10 @@ HTML
 CSS
 How to Use It
 Clone the Repository:
-git clone 
+git clone https://github.com/renukakathirvel/react-usercontext-cart/tree/main/usercontext-cart
 Navigate to the project directory:
-cd React-UseContext-Cart
-cd react-shopping-cart:
+cd react-usecontext-Cart
+cd usercontext-cart:
 npm install
 Start the development server:
 npm run dev
